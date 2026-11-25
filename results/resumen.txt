@@ -1,0 +1,27 @@
+
+=== results/instances_original.csv: 483 corridas, 483 validas, 0 fallidas
+   b    n       greedy          ACS  mejora%  equipos  seg_med  seg_max
+  10   60      3144006      2239413    22.47     1.08     0.01     0.02
+  15   60      4458767      4067903     6.64     2.00     0.02     0.03
+  20   60      4920785      4108562    13.44     2.00     0.03     0.04
+  25   60      4169381      3823521     8.30     1.85     0.08     0.10
+  30   60      4684229      4143295     9.12     2.00     0.11     0.13
+  40   60      5172485      4214474    14.87     2.00     0.17     0.21
+  50   60      5177815      4271192    14.70     2.00     0.37     1.06
+  60   60      5139467      4320101    12.94     2.00     0.54     1.66
+  71    3      2504786      2403613     4.04     1.00     0.81     0.99
+TOTAL: mejora media del ACS sobre el greedy 12.75%, tiempo acumulado 82s
+
+=== results/instances_v3.csv: 204 corridas, 198 validas, 6 fallidas
+  FALLA: Instance_d1_b205_a21_d40_s574.dat (semilla 101)
+  FALLA: Instance_d1_b205_a21_d40_s574.dat (semilla 102)
+  FALLA: Instance_d1_b205_a21_d40_s574.dat (semilla 103)
+  FALLA: Instance_d2_b10_a4_d3_s129.dat (semilla 101)
+  FALLA: Instance_d2_b10_a4_d3_s129.dat (semilla 102)
+  FALLA: Instance_d2_b10_a4_d3_s129.dat (semilla 103)
+   b    n       greedy          ACS  mejora%  equipos  seg_med  seg_max
+  10   57      3722671      2993351    17.04     1.44     0.01     0.02
+  20   60      5524121      4679912    12.90     2.23     0.03     0.04
+  50   60      5906314      4571814    19.82     2.00     0.33     0.42
+ 205   21      7867456      5895415    22.88     1.76     8.20    10.74
+TOTAL: mejora media del ACS sobre el greedy 17.25%, tiempo acumulado 195s

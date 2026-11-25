@@ -96,6 +96,8 @@ Mejora del ACS sobre el greedy, equipos y tiempo por corrida (6 procesos en para
 | v3 | 205 | 22.9 % | 8.3 s (máx. 11.7 s) |
 | **v3, total** | | **17.25 %** | 202 s en 198 corridas |
 
+Los resultados completos están en `results/`: `instances_original.csv` y `instances_v3.csv` (una fila por instancia y semilla, con costo greedy y final, equipos, tiempo y validez), `resumen.txt` (las tablas de arriba), `check_instances.txt` y `entorno.txt` (CPU, compilador, parámetros). Se regeneran con los comandos de la sección *Ejecutar un conjunto completo*; con la misma semilla los costos son idénticos, los tiempos varían según la máquina.
+
 Los costos absolutos no son comparables entre ambos conjuntos (escalas de datos distintas); sí lo son la mejora relativa y los tiempos. Las 483 corridas del conjunto original y las 198 válidas de v3 pasan todos los verificadores.
 
 ## Problemas conocidos en `instances_v3/`

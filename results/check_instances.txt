@@ -1,0 +1,3 @@
+Instance_d1_b205_a21_d40_s574.dat: INCONSISTENTE: ids sin coordenadas/tarifa [228]
+Instance_d2_b10_a4_d3_s129.dat: INFACTIBLE: puentes que no caben en un turno Q=540: {84: 555}
+229 instancias revisadas, 2 con problemas
