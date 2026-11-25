@@ -1,0 +1,13 @@
+{
+  "alpha": 1.43,
+  "beta": 4.37,
+  "rho": 0.09,
+  "xi": 0.26,
+  "q0": 0.62,
+  "ants": 10,
+  "ls_moves": "all",
+  "ls_prob": 1.0,
+  "objective": 0.8893932313597374,
+  "n_trials": 81,
+  "objective_nodispatch": 0.8605165583676829
+}

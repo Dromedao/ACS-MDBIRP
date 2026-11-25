@@ -1,0 +1,5 @@
+family,budget,runs,runs_1team,pct_1team,instances_with_1team_in_20_seeds,mean_teams,mean_cost,mean_seconds
+25,1x (25 it),400,69,17.25,6,1.828,3781404,0.08
+25,10x (250 it),400,98,24.5,8,1.755,3638520,0.65
+60,1x (25 it),400,0,0.0,0,2.0,4320301,0.54
+60,10x (250 it),400,0,0.0,0,2.0,4308117,4.26

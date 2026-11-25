@@ -1,0 +1,3 @@
+default {"objective": 0.8588015237393973, "objective_nodispatch": 0.8792939641183608, "teams": 1.8666666666666667, "n_instances": 96}
+propio {"objective": 0.8587062420198958, "objective_nodispatch": 0.8799353839855741, "teams": 1.8666666666666667, "n_instances": 96}
+optuna {"objective": 0.857804134212102, "objective_nodispatch": 0.878885451340973, "teams": 1.8645833333333333, "n_instances": 96}

@@ -1,0 +1,40 @@
+{
+  "corridas": 12880,
+  "invalidas": 0,
+  "instancias": 161,
+  "semillas": [
+    101,
+    102,
+    103,
+    "..."
+  ],
+  "config": {
+    "alpha": 1.55,
+    "beta": 3.59,
+    "rho": 0.5,
+    "xi": 0.26,
+    "q0": 0.64,
+    "ants": 40,
+    "ls_moves": "relocate",
+    "ls_prob": 0.25,
+    "objective": 0.8880592119836171,
+    "default_objective": 0.8926796752198952,
+    "budget": 1000,
+    "tune_seeds": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "subset_size": 64,
+    "k": 1.2020385050962628,
+    "time_ls": 0.16584375,
+    "time_nols": 0.13796875,
+    "ls_variant_moves": "relocate",
+    "ls_forced": false
+  },
+  "equipos_acs_en_cota": 101,
+  "equipos_acs_menos_que_greedy": 62,
+  "equipos_acs_bajo_cota": 0
+}

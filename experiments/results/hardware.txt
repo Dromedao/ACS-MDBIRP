@@ -1,0 +1,6 @@
+CPU: Intel(R) Core(TM) 5 210H
+Núcleos lógicos: 12
+Memoria: 7.5Gi
+SO: Ubuntu 24.04.4 LTS (Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39)
+Compilador: g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+Flags: -std=c++17 -Wall -Wextra -O2
